@@ -16,7 +16,7 @@ thanks:			thanks to: robertybob for creating the theme I have based this on
 		</sound>
 
 		<image name="background" extra="true">
-			<path>./art/bground.jpg</path>
+			<path>./art/hud5_bg.jpg</path>
 			<size>0 1</size>
 			<pos>0.5 0.5</pos>
 			<origin>0.5 0.5</origin>
@@ -30,12 +30,12 @@ thanks:			thanks to: robertybob for creating the theme I have based this on
 
 			<carousel name="systemcarousel">
 				<type>horizontal</type>
-				<pos>0 0.42</pos>
+				<pos>0 0.383</pos>
 				<size>1 0.2325</size>
-				<color>FFFFFFD8</color>
+				<color>333E524D</color>
 				<logoScale>2</logoScale>
 				<logoSize>0.125 0.155</logoSize>
-				<maxLogoCount>4</maxLogoCount>
+				<maxLogoCount>3</maxLogoCount>
 			</carousel>
 
 			<text name="systemInfo">
@@ -49,9 +49,10 @@ thanks:			thanks to: robertybob for creating the theme I have based this on
 				<pos>0.0 0.0</pos>
 				<textColor>FFA500</textColor>
 				<iconColor>FFFFFFD8</iconColor>
-				<fontPath></fontPath>
+				<fontPath>./art/invisible.ttf</fontPath>
 				<fontSize>0.012</fontSize>
 			</helpsystem>
+
 		</view>
 
 	</feature>
@@ -108,6 +109,7 @@ thanks:			thanks to: robertybob for creating the theme I have based this on
 	</view>
 
 	<view name="basic">
+
 	</view>
 
 	<view name="detailed">
@@ -140,6 +142,7 @@ thanks:			thanks to: robertybob for creating the theme I have based this on
 			<filledPath>./art/star.png</filledPath>
 
 		</rating>
+
 	</view>
 
 	<feature supported="video">
@@ -187,8 +190,8 @@ thanks:			thanks to: robertybob for creating the theme I have based this on
 				<size>0.150 0.040</size>
 				<pos>0.194 0.6500</pos>
 				<filledPath>./art/star.png</filledPath>
-
 			</rating>
+
 		</view>
 
 	</feature>

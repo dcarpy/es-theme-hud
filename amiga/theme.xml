@@ -1,22 +1,22 @@
 <theme>
-    <formatVersion>3</formatVersion>
-    <include>./../space.xml</include>
+	<formatVersion>3</formatVersion>
+	<include>./../hud.xml</include>
 
 	<view name="system">
 
 		<image name="logo">
 			<path>./art/ami.svg</path>
-        </image>
-		
+		</image>
+
 		<helpsystem name="help">
 			<textColor>000000</textColor>
 			<iconColor>000000</iconColor>
 		</helpsystem>
-		
+
 	</view>
 
 	<view name="basic, detailed, video">
-	
+
 		<text name="system_name_1" extra="true">
 			<text>[uae4all2]</text>
 			<size>0.45 0.06</size>
@@ -26,29 +26,29 @@
 			<fontSize>0.030</fontSize>
 			<alignment>right</alignment>
 		</text>
-	</view>
+
 		<image name="logo">
 			<path>./art/amiga_sub.svg.png</path>
 			<pos>0.0605 0.152</pos>
 			<size>0.3791 0.15</size>
 			<origin>0 0.5</origin>
 		</image>
-		
+
 	</view>
 
 	<view name="basic">
-	
+
 		<textlist name="gamelist">
 			<pos>0.025 0.22</pos>
 			<size>0.951 0.69</size>
 			<alignment>center</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 		</textlist>
-		
+
 	</view>
 
 	<view name="detailed">
 
 	</view>
-	
+
 </theme>
