@@ -39,8 +39,8 @@ thanks:			thanks to: robertybob for creating the theme I have based this on
 			</carousel>
 
 			<text name="systemInfo">
-				<backgroundColor>FFFFFFD8</backgroundColor>
-				<pos>0.0 0.950</pos>
+				<backgroundColor>FFFFFF00</backgroundColor>
+				<pos>0.0 0.605</pos>
 				<color>000000</color>
 				<fontPath>./art/Xolonium-Bold.otf</fontPath>
 				<fontSize>0.018</fontSize>
@@ -94,7 +94,7 @@ thanks:			thanks to: robertybob for creating the theme I have based this on
 			<pos>0.5 0.5</pos>
 			<origin>0.5 0.5</origin>
 			<size>0 1</size>
-			<path>./art/bground_sub.jpg</path>
+			<path>./art/hud_bg_sub.jpg</path>
 		</image>
 
 		<textlist name="gamelist">
@@ -118,7 +118,7 @@ thanks:			thanks to: robertybob for creating the theme I have based this on
 			<pos>0.5 0.5</pos>
 			<origin>0.5 0.5</origin>
 			<size>0 1</size>
-			<path>./art/bground_sub.jpg</path>
+			<path>./art/hud_bg_sub.jpg</path>
 		</image>
 
 		<text name="md_description">
@@ -153,7 +153,7 @@ thanks:			thanks to: robertybob for creating the theme I have based this on
 				<pos>0.5 0.5</pos>
 				<origin>0.5 0.5</origin>
 				<size>0 1</size>
-				<path>./art/bground_sub.jpg</path>
+				<path>./art/hud_bg_sub.jpg</path>
 			</image>
 
 			<text name="md_description">
