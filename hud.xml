@@ -100,7 +100,7 @@ thanks:			thanks to: robertybob for creating the theme I have based this on
 		<textlist name="gamelist">
 			<selectorColor>ffffff00</selectorColor>
 			<selectedColor>C0C0C0</selectedColor>
-			<primaryColor>FFA500</primaryColor>
+			<primaryColor>4BA5FF</primaryColor>
 			<secondaryColor>800000</secondaryColor>
 			<fontPath>./art/Xolonium-Bold.otf</fontPath>
 			<fontSize>0.030</fontSize>
