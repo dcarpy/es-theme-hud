@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="logo">
-			<path>./art/a2600.svg</path>
+			<path>./art/atari-2600-alt.png</path>
 		</image>
 
 		<helpsystem name="help">

@@ -1,6 +1,7 @@
 <theme>
     <formatVersion>3</formatVersion>
-    <include>./../space.xml</include>
+
+    <include>./../hud.xml</include>
 
 	<view name="system">
 
@@ -36,6 +37,7 @@
 		
 
 	</view>
+
 	<view name="basic">
 	
 		<textlist name="gamelist">

@@ -28,7 +28,7 @@
 		</text>
 
 		<image name="logo">
-			<path>./art/3do_sub.svg.png</path>
+			<path>./art/3do.svg</path>
 			<pos>0.0605 0.152</pos>
 			<size>0.3791 0.15</size>
 			<origin>0 0.5</origin>
