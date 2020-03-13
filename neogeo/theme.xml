@@ -6,7 +6,7 @@
 	<view name="system">
 
 		<image name="logo">
-			<path>./art/neogeo.svg</path>
+			<path>./art/neogeo_2.svg</path>
 		</image>
 
 		<helpsystem name="help">

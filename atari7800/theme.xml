@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="logo">
-			<path>./art/a7800.svg</path>
+			<path>./art/a7800_2.svg</path>
 		</image>
 
 		<helpsystem name="help">
