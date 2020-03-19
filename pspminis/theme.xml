@@ -6,7 +6,7 @@
 	<view name="system">
 
 		<image name="logo">
-			<path>./art/psp.svg</path>
+			<path>./art/pspminis.png</path>
 		</image>
 
 		<helpsystem name="help">
@@ -29,7 +29,7 @@
 		</text>
 
 		<image name="logo">
-			<path>./art/psp_sub.svg.png</path>
+			<path>./art/pspminis.png</path>
 			<pos>0.0605 0.152</pos>
 			<size>0.3791 0.15</size>
 			<origin>0 0.5</origin>
