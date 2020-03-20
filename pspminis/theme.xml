@@ -29,7 +29,7 @@
 		</text>
 
 		<image name="logo">
-			<path>./art/pspminis.png</path>
+			<path>./art/pspminis_sub.png</path>
 			<pos>0.0605 0.152</pos>
 			<size>0.3791 0.15</size>
 			<origin>0 0.5</origin>
