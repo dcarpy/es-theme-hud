@@ -6,7 +6,7 @@
 	<view name="system">
 
 		<image name="logo">
-			<path>./art/favorites2.svg</path>
+			<path>./art/favorites.svg</path>
 		</image>
 
 		<helpsystem name="help">
