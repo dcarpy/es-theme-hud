@@ -6,7 +6,7 @@
 	<view name="system">
 
 		<image name="logo">
-			<path>./art/allgames.svg</path>
+			<path>./art/allgames3.svg</path>
 		</image>
 
 		<helpsystem name="help">
